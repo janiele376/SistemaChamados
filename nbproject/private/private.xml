@@ -2,6 +2,23 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/DAO/NovoClass.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/controller/NovoClass.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/dashboard/visao_geral.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/components/navbar.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/service/NovoClass.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/components/ticket_card.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/auth/login.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/model/NovoClass.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/auth/recuperar_senha.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/tickets/detalhes.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/util/NovoClass.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/auth/cadastro.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/tickets/listagem.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/dashboard/relatorios.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/tickets/criar_chamado.java</file>
+            <file>file:/C:/Users/Aluno/Documents/Janiele_info3/NetBeans/SistemaChamados/src/view/components/sidebar.java</file>
+        </group>
     </open-files>
 </project-private>
