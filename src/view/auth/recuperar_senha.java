@@ -59,7 +59,7 @@ public class recuperar_senha extends javax.swing.JPanel {
         usuario.setFont(new java.awt.Font("Miriam Libre", 0, 11)); // NOI18N
         usuario.setText("Insira seu e-mail cadastrado para");
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/usuario.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/email.png"))); // NOI18N
 
         usuario1.setFont(new java.awt.Font("Miriam Libre", 0, 11)); // NOI18N
         usuario1.setText("receber as instruções de recuperação:");

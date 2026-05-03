@@ -79,7 +79,7 @@ public class cadastro extends javax.swing.JPanel {
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/senha.png"))); // NOI18N
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/email (1) (1).png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/email.png"))); // NOI18N
 
         usuario2.setFont(new java.awt.Font("Miriam Libre", 0, 11)); // NOI18N
         usuario2.setText("E-mail:");
@@ -97,7 +97,7 @@ public class cadastro extends javax.swing.JPanel {
         usuario3.setFont(new java.awt.Font("Miriam Libre", 0, 11)); // NOI18N
         usuario3.setText("Departamento:");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/departamento (1) (1).png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/departamento.png"))); // NOI18N
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
 
